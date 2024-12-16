@@ -28,7 +28,7 @@
         :loading="loading"
         :disabled="!newMessage.trim()"
       >
-        发送
+        发送了
       </el-button>
     </div>
   </div>
